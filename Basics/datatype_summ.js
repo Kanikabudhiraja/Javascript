@@ -34,10 +34,11 @@ const myFunction = function()
     console.log("Hello World");
 }
 
-console.log(typeof myFunction)
+console.log(typeof myFunction) // dattype function object
 
 // null k typeof s datatype ->object aata h 
 // object k function aata h
+
 
 
 

@@ -17,6 +17,8 @@ console.log(undefined ==0 ) // always give false always
 console.log(undefined >0 )
 console.log(undefined >=0 )
 
+// this is conversion we are going to avoid as they we create a confusion 
+
 // strict check ===
 // also check it's data type
 

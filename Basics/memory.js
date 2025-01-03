@@ -23,5 +23,5 @@ let userOne=
 let userTwo= userOne;
 
 userTwo.email="kanika@google.com";
-console.log(userOne.email)
+console.log(userOne.email) // dono heap s refrenec l rhe h 
 console.log(userTwo.email)
